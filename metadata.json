@@ -1,0 +1,7 @@
+{
+  "name": "SketchStep",
+  "description": "A minimalist drawing guide that breaks down any image into sequential, hand-drawn steps.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
